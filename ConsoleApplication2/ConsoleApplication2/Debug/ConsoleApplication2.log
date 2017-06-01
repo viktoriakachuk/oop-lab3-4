@@ -1,0 +1,12 @@
+﻿Build started 01.06.2017 10:24:40.
+     1>Project "D:\универ\ООП\прог\контейнеры\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\универ\ООП\прог\контейнеры\ConsoleApplication2\Debug\ConsoleApplication2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\универ\ООП\прог\контейнеры\ConsoleApplication2\Debug\ConsoleApplication2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\универ\ООП\прог\контейнеры\ConsoleApplication2\Debug\ConsoleApplication2.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Source.obj
+         Debug\Source1.obj
+         ConsoleApplication2.vcxproj -> D:\универ\ООП\прог\контейнеры\ConsoleApplication2\Debug\ConsoleApplication2.exe
+     1>Done Building Project "D:\универ\ООП\прог\контейнеры\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.28
